@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f051f9202c0e2216cb88aad55dbd2771",
+    "revision": "f4800b2081d0c10eef6a83e4d944b4fd",
     "url": "/okapp/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/okapp/static/js/2.71ca4c57.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6256f1297c4079e3d91",
-    "url": "/okapp/static/js/main.5382d851.chunk.js"
+    "revision": "50a08884f6f51d6c6767",
+    "url": "/okapp/static/js/main.f1dd28eb.chunk.js"
   },
   {
     "revision": "72dcd81aa91e0208d5c4",
