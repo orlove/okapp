@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6dafb33ad3b4918569bbe84be77c599f",
+    "revision": "b9238c7e3f14489816dca0e27e47cf0e",
     "url": "/okapp/index.html"
   },
   {
