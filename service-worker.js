@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/okapp/precache-manifest.488eb9c4e0b2424d30bacffa3d365dc7.js"
+  "/okapp/precache-manifest.9c1a4a5cfcbd0399539b8d639d6d4d7c.js"
 );
 
 self.addEventListener('message', (event) => {
