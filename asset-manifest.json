@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/okapp/static/js/main.e85fca0d.chunk.js",
-    "main.js.map": "/okapp/static/js/main.e85fca0d.chunk.js.map",
+    "main.js": "/okapp/static/js/main.eba4bb55.chunk.js",
+    "main.js.map": "/okapp/static/js/main.eba4bb55.chunk.js.map",
     "runtime-main.js": "/okapp/static/js/runtime-main.bf6916f4.js",
     "runtime-main.js.map": "/okapp/static/js/runtime-main.bf6916f4.js.map",
-    "static/js/2.f1ca587a.chunk.js": "/okapp/static/js/2.f1ca587a.chunk.js",
-    "static/js/2.f1ca587a.chunk.js.map": "/okapp/static/js/2.f1ca587a.chunk.js.map",
+    "static/js/2.1e59849f.chunk.js": "/okapp/static/js/2.1e59849f.chunk.js",
+    "static/js/2.1e59849f.chunk.js.map": "/okapp/static/js/2.1e59849f.chunk.js.map",
     "static/js/3.9f8e1db1.chunk.js": "/okapp/static/js/3.9f8e1db1.chunk.js",
     "static/js/3.9f8e1db1.chunk.js.map": "/okapp/static/js/3.9f8e1db1.chunk.js.map",
     "static/js/4.f697b59d.chunk.js": "/okapp/static/js/4.f697b59d.chunk.js",
     "static/js/4.f697b59d.chunk.js.map": "/okapp/static/js/4.f697b59d.chunk.js.map",
     "index.html": "/okapp/index.html",
-    "precache-manifest.5f97e1171a1b5ee65497cf2db7a620c2.js": "/okapp/precache-manifest.5f97e1171a1b5ee65497cf2db7a620c2.js",
+    "precache-manifest.a1c2fd2b81630b7a0c76f7f07e80166c.js": "/okapp/precache-manifest.a1c2fd2b81630b7a0c76f7f07e80166c.js",
     "service-worker.js": "/okapp/service-worker.js",
-    "static/js/2.f1ca587a.chunk.js.LICENSE.txt": "/okapp/static/js/2.f1ca587a.chunk.js.LICENSE.txt",
+    "static/js/2.1e59849f.chunk.js.LICENSE.txt": "/okapp/static/js/2.1e59849f.chunk.js.LICENSE.txt",
     "static/js/3.9f8e1db1.chunk.js.LICENSE.txt": "/okapp/static/js/3.9f8e1db1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bf6916f4.js",
-    "static/js/2.f1ca587a.chunk.js",
-    "static/js/main.e85fca0d.chunk.js"
+    "static/js/2.1e59849f.chunk.js",
+    "static/js/main.eba4bb55.chunk.js"
   ]
 }
