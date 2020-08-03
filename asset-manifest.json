@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/okapp/static/js/main.5607df87.chunk.js",
-    "main.js.map": "/okapp/static/js/main.5607df87.chunk.js.map",
+    "main.js": "/okapp/static/js/main.2634bd48.chunk.js",
+    "main.js.map": "/okapp/static/js/main.2634bd48.chunk.js.map",
     "runtime-main.js": "/okapp/static/js/runtime-main.bf6916f4.js",
     "runtime-main.js.map": "/okapp/static/js/runtime-main.bf6916f4.js.map",
     "static/js/2.1e59849f.chunk.js": "/okapp/static/js/2.1e59849f.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/4.f697b59d.chunk.js": "/okapp/static/js/4.f697b59d.chunk.js",
     "static/js/4.f697b59d.chunk.js.map": "/okapp/static/js/4.f697b59d.chunk.js.map",
     "index.html": "/okapp/index.html",
-    "precache-manifest.4f231809704100f008c9ca0d506c6f39.js": "/okapp/precache-manifest.4f231809704100f008c9ca0d506c6f39.js",
+    "precache-manifest.e5963a72c65c1bd79231cb6067ce4e1e.js": "/okapp/precache-manifest.e5963a72c65c1bd79231cb6067ce4e1e.js",
     "service-worker.js": "/okapp/service-worker.js",
     "static/js/2.1e59849f.chunk.js.LICENSE.txt": "/okapp/static/js/2.1e59849f.chunk.js.LICENSE.txt",
     "static/js/3.9f8e1db1.chunk.js.LICENSE.txt": "/okapp/static/js/3.9f8e1db1.chunk.js.LICENSE.txt"
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime-main.bf6916f4.js",
     "static/js/2.1e59849f.chunk.js",
-    "static/js/main.5607df87.chunk.js"
+    "static/js/main.2634bd48.chunk.js"
   ]
 }
